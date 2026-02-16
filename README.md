@@ -12,7 +12,7 @@ You can view the live version of this project here: [Try Now](https://omarlokma.
 >Responsive Architecture: Built with a mobile-first approach using CSS Grid and Flexbox to ensure a seamless experience on all devices.
 
 🛠 Tech Stack
-Core: React 19.
-State Management: Context API to handle global data.
-Routing: React Router DOM for multi-page navigation.
-Styling: Pure CSS3 with modern animations and transitions.
+>Core: React 19.
+>State Management: Context API to handle global data.
+>Routing: React Router DOM for multi-page navigation.
+>Styling: Pure CSS3 with modern animations and transitions.
