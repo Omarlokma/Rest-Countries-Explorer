@@ -7,7 +7,7 @@ import { CountryProvider } from './context/CountryContext';
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/Rest-Countries-Explorer">
       <CountryProvider>
         <App />
       </CountryProvider>
