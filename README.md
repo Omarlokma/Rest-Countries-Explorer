@@ -13,6 +13,9 @@ You can view the live version of this project here: [Try Now](https://omarlokma.
 
 🛠 Tech Stack
 >Core: React 19.
+
 >State Management: Context API to handle global data.
+
 >Routing: React Router DOM for multi-page navigation.
+
 >Styling: Pure CSS3 with modern animations and transitions.
