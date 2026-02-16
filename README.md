@@ -6,9 +6,13 @@ You can view the live version of this project here: [Try Now](https://omarlokma.
 
 🚀 Key Features
 >API-Driven Data: Fetches real-time, accurate country statistics from the REST Countries V3.1 API.
+
 >Dynamic Theming: Features a native Dark/Light mode toggle that applies theme changes across the entire application.
+
 >Search & Discovery: Allows users to search for specific countries by name and filter them by region.
->Detailed Routing: Each country has its own dedicated page displaying in-depth information such as population,      capital, and flags.
+
+>Detailed Routing: Each country has its own dedicated page displaying in-depth information such as population,capital, and flags.
+
 >Responsive Architecture: Built with a mobile-first approach using CSS Grid and Flexbox to ensure a seamless experience on all devices.
 
 🛠 Tech Stack
